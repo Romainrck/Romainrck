@@ -2,7 +2,7 @@
 - 👀 I’m interested in biology and microbiology
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on genomic data analysis tools
-- 📫 How to reach me romain.rinck@inserm.fr
+- 📫 How to reach me romain.rinck@hotmail.fr
 
 <!---
 Romainrck/Romainrck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
